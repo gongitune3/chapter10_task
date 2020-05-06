@@ -117,12 +117,12 @@ footer p {
     header {     
        width: 90%;
     }
-    /* main { */
-        /* width: 90%;
-    } */
+    main {
+        width: 90%;
+    }
     .main-contet {
         width: 90%;
-        margin: 10px 5%;
+        margin: 0px 5%;
     } 
     .content-img1, .content-img2, .content-img3{
         height: 0;
